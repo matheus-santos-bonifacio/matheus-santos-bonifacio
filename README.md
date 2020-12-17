@@ -6,6 +6,8 @@ Meu nome é Matheus, sou um desenvolvedor engajado que busca sempre o *novo* no 
 ### Entre algumas linguagens que conheço estão
 
 <img src="./Resources/Icons/php-code.png">
+<img src="./Resources/Icons/python.png">
+<img src="./Resources/Icons/hashtag.png">
 
 Ícones feitos por <a href="https://www.flaticon.com/br/autores/inipagistudio" title="inipagistudio">inipagistudio</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
 
