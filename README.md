@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hellow Dev
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+Meu nome é Matheus, sou um desenvolvedor engajado que busca sempre o *novo* no mundo da tecnologia (principalmente quando falamos de programação)
+
+### Entre algumas linguagens que conheço estão
+<img src="">
+
+Ícones feitos por <a href="https://www.flaticon.com/br/autores/inipagistudio" title="inipagistudio">inipagistudio</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
 
 <!--
 **caneladeouro/caneladeouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
