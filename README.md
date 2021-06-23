@@ -1,14 +1,16 @@
-### Hellow Dev
+### Hello Word
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-Meu nome é Matheus, sou um desenvolvedor engajado que busca sempre o *novo* no mundo da tecnologia (principalmente quando falamos de programação)
+Estudante deste os meus 16 anos em programação, começando com python.
 
 ### Entre algumas linguagens que conheço estão
 
-<img src="./Resources/Icons/php-code.png">
-<img src="./Resources/Icons/python.png">
-<img src="./Resources/Icons/hashtag.png">
-
+<div style="display: flex">
+  <img src="./Resources/Icons/php-code.png">
+  <img src="./Resources/Icons/python.png">
+  <img src="./Resources/Icons/hashtag.png">
+</div>
+  
 Ícones feitos por <a href="https://www.flaticon.com/br/autores/inipagistudio" title="inipagistudio">inipagistudio</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a>
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
