@@ -1,7 +1,7 @@
 ### Hello Word
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-Computer engineerer student with greatest wantal for technologie, such microprocessors, soft robots, AIs, cloud, and much more. I really like languages nearly the machine c, c++, and I used Assembly too.
+Computer engineerer student with greatest wantment for technologie such microprocessors, soft robots, AIs, cloud, and much more. I really like languages nearly the machine c, c++, and I used Assembly too.
 
 ### Some languages that I know
 <div style="display: flex">
